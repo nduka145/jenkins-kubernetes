@@ -42,6 +42,6 @@ Output
 ![image](https://github.com/user-attachments/assets/7d9e4801-cdce-4381-a371-11489cf0cb10)
 
 ### 3. Assessing Jenkins
-http://<external-ip>:3000
+http://'<external-ip>':3000
 
 
