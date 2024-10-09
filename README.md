@@ -22,7 +22,7 @@ kubectl apply -f deployment.yml
 kubectl apply -f service.yml
 
 ```
-### Checking deployments and other status
+### 3. Checking deployments and other status
 ```bash
 kubectl get deployment
 ```
@@ -34,3 +34,12 @@ kubectl get pod
 ```
 Output  
 ![image](https://github.com/user-attachments/assets/4d6dc205-6b81-4e0e-a22b-1fce4766ae72)
+
+```bash
+kubectl get svc
+```
+Output  
+![image](https://github.com/user-attachments/assets/7d9e4801-cdce-4381-a371-11489cf0cb10)
+
+
+
