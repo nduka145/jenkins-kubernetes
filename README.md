@@ -25,6 +25,6 @@ kubectl apply -f service.yml
 ### Checking deployments and other status
 ```bash
 kubectl get deployment
-```bash
+```
 Output
 ![image](https://github.com/user-attachments/assets/b0fb1d56-73c8-4355-8036-a45ad9268766)
