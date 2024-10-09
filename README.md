@@ -1,5 +1,4 @@
-# jenkins-kubernetes
-Installing jenkins on Kubernetes
+# Installing jenkins on Kubernetes
 
 ## Steps to Install Jenkins on Kubernetes
 
