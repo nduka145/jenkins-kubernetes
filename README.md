@@ -41,7 +41,15 @@ kubectl get svc
 Output  
 ![image](https://github.com/user-attachments/assets/7d9e4801-cdce-4381-a371-11489cf0cb10)
 
-### 3. Assessing Jenkins
-http://'<external-ip>':3000
+### 4. Assessing Jenkins
+http://your_external-ip:3000
+
+### 5. Getting Jenkins inital password
+kubectl exec jenkins-667449857-65p75 -- cat /var/jenkins_home/secrets/initialAdminPassword
+
+where jenkins-667449857-65p75 is your pod name as shown in the screenshot above. replace with your jenkins pod name
+
+
+
 
 
