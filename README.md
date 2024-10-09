@@ -12,3 +12,13 @@ cd jenkins-kubernetes
 
 ![image](https://github.com/user-attachments/assets/8955b4d1-3dbf-438d-ba66-678eb33c2b84)
 
+
+### 2. Creating the Persistent volume, Persistent volume claim, deployment and service
+
+```bash
+kubectl apply -f pv.yml
+kubectl apply -f pvc.yml
+kubectl apply -f deployment.yml
+kubectl apply -f service.yml
+
+```
