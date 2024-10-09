@@ -26,5 +26,11 @@ kubectl apply -f service.yml
 ```bash
 kubectl get deployment
 ```
-Output
+Output  
 ![image](https://github.com/user-attachments/assets/b0fb1d56-73c8-4355-8036-a45ad9268766)
+
+```bash
+kubectl get pod
+```
+Output  
+![image](https://github.com/user-attachments/assets/4d6dc205-6b81-4e0e-a22b-1fce4766ae72)
